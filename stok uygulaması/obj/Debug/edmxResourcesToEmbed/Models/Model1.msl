@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="stoksqlModelStoreContainer" CdmEntityContainer="stoksqlEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="stoksqlModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Stok">
+      <EntityTypeMapping TypeName="stoksqlModel.tbl_Stok">
+        <MappingFragment StoreEntitySet="tbl_Stok">
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="aciklama" ColumnName="aciklama" />
+          <ScalarProperty Name="kod" ColumnName="kod" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_StokHareket">
+      <EntityTypeMapping TypeName="stoksqlModel.tbl_StokHareket">
+        <MappingFragment StoreEntitySet="tbl_StokHareket">
+          <ScalarProperty Name="tarih" ColumnName="tarih" />
+          <ScalarProperty Name="alinanAdet" ColumnName="alinanAdet" />
+          <ScalarProperty Name="stokID" ColumnName="stokID" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

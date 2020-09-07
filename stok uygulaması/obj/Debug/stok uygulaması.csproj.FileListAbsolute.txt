@@ -1,0 +1,53 @@
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\stok uygulaması.dll.config
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\stok uygulaması.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\stok uygulaması.pdb
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\csc.exe
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\csc.exe.config
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\csc.rsp
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\csi.exe
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\csi.rsp
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\System.AppContext.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\vbc.exe
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\vbc.exe.config
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\vbc.rsp
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\VBCSCompiler.exe
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\EntityFramework.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\EntityFramework.SqlServer.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Helpers.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Mvc.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Razor.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Webpages.Deployment.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Webpages.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Webpages.Razor.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\EntityFramework.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\EntityFramework.SqlServer.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Razor.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Webpages.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Webpages.Deployment.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Webpages.Razor.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Helpers.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\System.Web.Mvc.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\obj\Debug\stok uygulaması.csprojAssemblyReference.cache
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\obj\Debug\stok uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\obj\Debug\stok uygulaması.csproj.CopyComplete
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\obj\Debug\stok uygulaması.dll
+C:\Users\faruk\source\repos\stok uygulaması\stok uygulaması\obj\Debug\stok uygulaması.pdb

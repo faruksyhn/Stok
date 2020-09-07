@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stok uygulaması", "stok uygulaması\stok uygulaması.csproj", "{E42D16FA-778D-4828-BE51-B46D9AFA4F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42D16FA-778D-4828-BE51-B46D9AFA4F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42D16FA-778D-4828-BE51-B46D9AFA4F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42D16FA-778D-4828-BE51-B46D9AFA4F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42D16FA-778D-4828-BE51-B46D9AFA4F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F302C44-324A-48FE-B95E-35054BFAD0A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,49 @@
+﻿@model stok_uygulaması.Models.tbl_StokHareket
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/_layout.cshtml";
+}
+
+<h2>Sil</h2>
+
+<h3>Silmek istediğinize emin  misiniz?</h3>
+<div>
+    <h4>tbl_StokHareket</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.alinanAdet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.alinanAdet)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tarih)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tarih)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Stok.ad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Stok.ad)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Sil" class="btn btn-default" /> |
+            @Html.ActionLink("Listeye geri dön", "Index")
+        </div>
+    }
+</div>

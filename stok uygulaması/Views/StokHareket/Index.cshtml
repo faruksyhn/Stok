@@ -1,0 +1,64 @@
+﻿@model IEnumerable<stok_uygulaması.Models.tbl_StokHareket>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_layout.cshtml";
+}
+
+<h2>Stok Hareketleri</h2>
+
+<p>
+    @Html.ActionLink("Yeni Hareket oluştur", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tbl_Stok.ad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.alinanAdet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tarih)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.tbl_Stok.ad)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.alinanAdet)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.tarih)
+    </td>
+    <td>
+        @Html.ActionLink("Düzenle", "Edit", new { id = item.id }) |
+        @Html.ActionLink("Sil", "Delete", new { id = item.id })
+    </td>
+</tr>
+}
+
+</table>
+
+
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+</style>
